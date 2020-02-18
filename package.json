@@ -1,0 +1,23 @@
+{
+  "name": "demojs",
+  "version": "1.0.0",
+  "description": "basic js automation framework",
+  "main": "nightwatch.js",
+
+  "scripts": {
+    "test": "npm test"
+  },
+  
+  "author": "PRAK",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "handlebars": "^4.7.3"
+
+  },
+  "devDependencies": {
+    "chromedriver": "^80.0.3987.16",
+    "nightwatch": "^1.3.4",
+    "selenium-server": "^3.141.59"
+  }
+}
